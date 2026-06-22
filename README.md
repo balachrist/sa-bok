@@ -18,11 +18,17 @@ SA-BOK brings these disciplines together into a structured body of knowledge tha
 ## Who is SA-BOK for?
 
 • Security Architects
+
 • Enterprise Architects
+
 • CISOs & Security Leaders
+
 • Security Consultants
+
 • GRC & Assurance Professionals
+
 • Cloud & Platform Security Architects
+
 • AI Security Practitioners
 
 ## How To Use SA-BOK
