@@ -49,13 +49,13 @@ SA-BOK can be used to:
 
 ## Download
 
-The complete SA-BOK v1.0 framework contains:
+The complete SA-BOK v1.0 Knowledge Framework includes:
 
 - 15 Domains
 - 150+ Subdomains
 - 500+ Topics
 
-Download the full framework:
+Explore the complete SA-BOK Knowledge Framework:
 
 📄 [Download SA-BOK v1.0 PDF](./SABOK_MindMap_v1.0.pdf)
 
