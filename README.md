@@ -55,7 +55,7 @@ The complete SA-BOK v1.0 framework contains:
 - 150+ Subdomains
 - 500+ Topics
 
-📄 Download the full framework:
+Download the full framework:
 
 📄 [Download SA-BOK v1.0 PDF](./SABOK_MindMap_v1.0.pdf)
 
