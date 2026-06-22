@@ -1,6 +1,6 @@
 ![SA-BOK Banner](sa-bok-framework-banner.jpg)
 
-# Security Architecture Body of Knowledge
+# Security Architecture Body of Knowledge (SA-BOK)
 
 A practitioner-driven Security Architecture reference framework designed to bring together the domains, capabilities, and knowledge areas that make up modern Security Architecture.
 
