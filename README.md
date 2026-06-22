@@ -14,6 +14,8 @@ Security Architecture knowledge is often distributed across frameworks, standard
 
 SA-BOK brings these disciplines together into a structured body of knowledge that helps practitioners understand how the various domains of Security Architecture connect and support secure business transformation.
 
+SA-BOK complements established frameworks and guidance including TOGAF, SABSA, NIST, ISO standards, cloud provider security guidance, and industry best practices.
+
 
 ## Who is SA-BOK for?
 
@@ -53,13 +55,15 @@ The complete SA-BOK v1.0 Knowledge Framework includes:
 - 150+ Subdomains
 - 500+ Topics
 
-Explore the complete SA-BOK Knowledge Framework:
+Access the complete SA-BOK Knowledge Framework:
 
 📄 [Download SA-BOK v1.0 PDF](./SABOK_MindMap_v1.0.pdf)
 
 ---
 
 ## Domains
+
+The SA-BOK Knowledge Framework is organized into 15 domains covering the strategic, architectural, operational, and emerging areas of modern Security Architecture.
 
 ### 1. Governance & Strategy
 
@@ -95,7 +99,7 @@ Explore the complete SA-BOK Knowledge Framework:
 
 ## Roadmap
 
-Upcoming Deep Drives:
+Upcoming Deep Dives:
 
 - Identity & Trust
 - Cloud & Platform Security
@@ -108,6 +112,8 @@ Additional practitioner guidance, reference architectures, capability mappings, 
 ## Community Feedback
 
 SA-BOK is a practitioner-driven initiative and will continue to evolve through industry feedback, real-world experience, and community contributions.
+
+Suggestions, corrections, and practitioner perspectives are welcome.
 
 ---
 
