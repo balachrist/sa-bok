@@ -2,36 +2,28 @@
 
 # Security Architecture Body of Knowledge (SA-BOK)
 
-A practitioner-driven reference framework that consolidates the domains, capabilities, and knowledge areas of modern Security Architecture into a single, structured body of knowledge.
+A practitioner-driven Knowledge Framework that consolidates the domains, capabilities, and knowledge areas that define modern Security Architecture.
 
-Designed for Security Architects, Enterprise Architects, CISOs, Consultants, and Assurance Professionals seeking a holistic view of the Security Architecture discipline.
+SA-BOK is designed to help Security Architects, Enterprise Architects, CISOs, Consultants, and Assurance Professionals navigate the breadth of the Security Architecture discipline through a structured body of knowledge.
 
 ---
 
 ## Why SA-BOK?
 
-Security Architecture knowledge is often distributed across multiple frameworks, standards, methodologies, vendor guidance, and operational practices.
+Security Architecture knowledge is often distributed across frameworks, standards, cloud guidance, vendor documentation, and years of practitioner experience.
 
-While practitioners may be familiar with individual domains such as Identity, Cloud, Data, Application Security, Security Operations, AI, and Governance, there is often no single reference that brings these disciplines together in a structured and architecture-focused manner.
-
-SA-BOK was created to provide that consolidated view.
-
-It is not intended to replace existing frameworks or standards. Instead, it serves as a practitioner-focused reference model that helps connect concepts, identify capability gaps, support learning, and strengthen Security Architecture practices.
+SA-BOK brings these disciplines together into a structured body of knowledge that helps practitioners understand how the various domains of Security Architecture connect and support secure business transformation.
 
 
-## Who Is It For?
+## Who is SA-BOK for?
 
-SA-BOK is intended for:
-
-- Security Architects
-- Enterprise Architects
-- CISOs and Security Leaders
-- Cybersecurity Consultants
-- Security Assurance Professionals
-- Governance, Risk & Compliance Teams
-- Security Engineering and Platform Teams
-  
-It can be used as a reference guide, capability assessment framework, learning roadmap, and architecture discussion tool.
+• Security Architects
+• Enterprise Architects
+• CISOs & Security Leaders
+• Security Consultants
+• GRC & Assurance Professionals
+• Cloud & Platform Security Architects
+• AI Security Practitioners
 
 ## How To Use SA-BOK
 
@@ -97,13 +89,13 @@ Explore the complete SA-BOK Knowledge Framework:
 
 ## Roadmap
 
-Future releases and deep dives will further expand key Security Architecture domains including:
+Upcoming Deep Drives:
 
 - Identity & Trust
 - Cloud & Platform Security
-- AI Security
+- AI Security & Governance
 - Data Security
-- Security Operations and more...
+- Security Operations 
 
 Additional practitioner guidance, reference architectures, capability mappings, and maturity considerations will be introduced over time.
 
@@ -129,4 +121,6 @@ www.linkedin.com/in/balachrist
 
 ## Disclaimer
 
-SA-BOK is a practitioner-driven reference framework intended to support Security Architecture learning, capability development, governance, and assurance activities.
+SA-BOK is a practitioner-driven body of knowledge intended to support Security Architecture learning, capability development, governance, and assurance activities.
+
+It is not intended to replace established frameworks or standards, but to provide a consolidated view of the Security Architecture discipline.
