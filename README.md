@@ -1,4 +1,4 @@
-![SA-BOK Banner](./sa-bok-banner.png
+![SA-BOK Banner](./sa-bok-banner.png)
 
 # Security Architecture Body of Knowledge
 
