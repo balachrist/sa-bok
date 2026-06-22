@@ -1,3 +1,5 @@
+# ![SA-BOK Banner](./sa-bok-banner.png
+
 # SA-BOK 2026
 
 ## Security Architecture Body of Knowledge
