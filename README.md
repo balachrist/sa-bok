@@ -143,16 +143,16 @@ It is not intended to replace established frameworks or standards, but to provid
 
 The Security Architecture Body of Knowledge (SA-BOK) is being published as a series of practical mind maps covering the major domains of modern Security Architecture.
 
-| Mind Map | Status |
-|----------|--------|
-| Security Architecture Reference Model | ✅ Published |
-| Identity & Trust | ✅ Published |
-| Network Security | 🚧 Planned |
-| Cloud & Platform Security | 🚧 Planned |
-| Application & API Security | 🚧 Planned |
-| Data Security | 🚧 Planned |
-| AI Security | 🚧 Planned |
-| Security Operations | 🚧 Planned |
-| DevSecOps | 🚧 Planned |
+| Mind Map | Download | Status |
+|-----------|----------|--------|
+| Security Architecture Reference Model | [📄 PDF](SABOK_MindMap_v1.0.pdf) | ✅ Published |
+| Identity & Trust | [📄 PDF](Identity_Trust_BOK_Mindmap.pdf) | ✅ Published |
+| Network Security | Coming Soon | 🚧 Planned |
+| Cloud & Platform Security | Coming Soon | 🚧 Planned |
+| Application & API Security | Coming Soon | 🚧 Planned |
+| Data Security | Coming Soon | 🚧 Planned |
+| AI Security | Coming Soon | 🚧 Planned |
 
-Stay tuned as new mind maps are added to this repository.
+---
+
+More SA-BOK domains will be published regularly as this knowledge base evolves.
