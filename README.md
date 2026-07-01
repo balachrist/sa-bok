@@ -136,3 +136,23 @@ www.linkedin.com/in/balachrist
 SA-BOK is a practitioner-driven body of knowledge intended to support Security Architecture learning, capability development, governance, and assurance activities.
 
 It is not intended to replace established frameworks or standards, but to provide a consolidated view of the Security Architecture discipline.
+
+---
+
+# 📚 SA-BOK Mind Maps
+
+The Security Architecture Body of Knowledge (SA-BOK) is being published as a series of practical mind maps covering the major domains of modern Security Architecture.
+
+| Mind Map | Status |
+|----------|--------|
+| Security Architecture Reference Model | ✅ Published |
+| Identity & Trust | ✅ Published |
+| Network Security | 🚧 Planned |
+| Cloud & Platform Security | 🚧 Planned |
+| Application & API Security | 🚧 Planned |
+| Data Security | 🚧 Planned |
+| AI Security | 🚧 Planned |
+| Security Operations | 🚧 Planned |
+| DevSecOps | 🚧 Planned |
+
+Stay tuned as new mind maps are added to this repository.
